@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Attention!
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- On the Internet no-one knows that you're a cat.
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -62,30 +62,30 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I was born at a very young age."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://"
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Need-to-Syfu"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  #  - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Need-to-Syfu"
+  #  - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/"
 
 defaults:
   # _posts
